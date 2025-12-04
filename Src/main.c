@@ -95,12 +95,17 @@ int main(void)
   /* Initialize all configured peripherals */
   MX_GPIO_Init();
   MX_USART1_UART_Init();
-  /* USER CODE BEGIN 2 */
-  // 1. 初始化串口接收中断 (重要！否则收不到数据)
-  BSP_UART_Init(); 
+/* USER CODE BEGIN 2 */
+  
+  // 1. 初始化各成员的硬件 (BSP Layer)
+  BSP_UART_Init();      // 成员 D (通信)
+  BSP_Actuator_Init();  // <--- 补上这一行！成员 B (执行器: 风扇/LED等)
+  BSP_Sensor_Init();
+  // (后续拿到成员 A 和 C 的代码后，也要在这里分别调用 BSP_Sensor_Init 和 BSP_Key_Init)
 
-  // 2. 创建 FreeRTOS 的队列和任务 (重要！否则系统是空的)
+  // 2. 创建 FreeRTOS 资源 (App Layer)
   RTOS_Structure_Init();
+  
   /* USER CODE END 2 */
 
   /* Call init function for freertos objects (in cmsis_os2.c) */
