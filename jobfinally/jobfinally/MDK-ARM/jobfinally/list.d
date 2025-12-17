@@ -1,0 +1,12 @@
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+jobfinally\list.o: G:\Keil\ARM\111\Bin\..\include\stdlib.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+jobfinally\list.o: G:\Keil\ARM\111\Bin\..\include\stddef.h
+jobfinally\list.o: G:\Keil\ARM\111\Bin\..\include\stdint.h
+jobfinally\list.o: ../Inc/FreeRTOSConfig.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+jobfinally\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

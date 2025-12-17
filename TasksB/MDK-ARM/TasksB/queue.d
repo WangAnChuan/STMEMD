@@ -1,0 +1,15 @@
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/queue.c
+tasksb\queue.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdlib.h
+tasksb\queue.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\string.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tasksb\queue.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stddef.h
+tasksb\queue.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdint.h
+tasksb\queue.o: ../Inc/FreeRTOSConfig.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tasksb\queue.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h

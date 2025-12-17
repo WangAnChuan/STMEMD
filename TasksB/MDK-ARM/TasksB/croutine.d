@@ -1,0 +1,14 @@
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/croutine.c
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tasksb\croutine.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stddef.h
+tasksb\croutine.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdint.h
+tasksb\croutine.o: ../Inc/FreeRTOSConfig.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/croutine.h
+tasksb\croutine.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

@@ -1,0 +1,15 @@
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/event_groups.c
+tasksb\event_groups.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdlib.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tasksb\event_groups.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stddef.h
+tasksb\event_groups.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdint.h
+tasksb\event_groups.o: ../Inc/FreeRTOSConfig.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h
+tasksb\event_groups.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/event_groups.h

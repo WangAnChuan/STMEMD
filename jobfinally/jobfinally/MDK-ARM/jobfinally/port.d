@@ -1,0 +1,12 @@
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+jobfinally\port.o: G:\Keil\ARM\111\Bin\..\include\stddef.h
+jobfinally\port.o: G:\Keil\ARM\111\Bin\..\include\stdint.h
+jobfinally\port.o: ../Inc/FreeRTOSConfig.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+jobfinally\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h

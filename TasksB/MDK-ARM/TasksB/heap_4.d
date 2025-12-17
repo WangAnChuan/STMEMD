@@ -1,0 +1,13 @@
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang/heap_4.c
+tasksb\heap_4.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdlib.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+tasksb\heap_4.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stddef.h
+tasksb\heap_4.o: D:\QIANRUSHI\ARM\ARMCompiler_506\Bin\..\include\stdint.h
+tasksb\heap_4.o: ../Inc/FreeRTOSConfig.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+tasksb\heap_4.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
